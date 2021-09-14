@@ -1,4 +1,4 @@
-[指导教师：凤丽洲](http://stat.tjufe.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1076&wbnewsid=1103)
+[![指导教师](https://img.shields.io/badge/%E6%8C%87%E5%AF%BC%E6%95%99%E5%B8%88-%E5%87%A4%E4%B8%BD%E6%B4%B2-blue)](http://stat.tjufe.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1076&wbnewsid=1103)
 # StartNLP
 学习资源整合
 互联网上学习资源繁杂，质量参差不齐，这篇文档的主要目的是避免入门机器学习和深度学习时，花过多时间在寻找学习资源和数据资源上，避免踩学长学姐踩过的坑。
@@ -11,13 +11,15 @@
 
 ## 学习资源推荐
 
+[SOTA榜单](https://paperswithcode.com/sota) 机器学习前沿进展，包括NLP、知识图谱等
+
 |类型|资料名|作者|备注|
 |---|---|---|---|
 |Git入门|[Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)|廖雪峰|Git和以及Github的使用|
 |Python入门|[Pyhton教程](https://www.liaoxuefeng.com/wiki/1016959663602400)|廖雪峰|没有Python基础或者学过忘的差不多了的可看|
 |数据处理|《利用Python进行数据分析》|Wes McKinney|包括基础语法，Numpy、Pandas以及Matplotlib库的使用|
 |爬虫|《Python3网络爬虫开发实战》|崔庆才|爬虫实战类书籍|
-|机器学习|《统计学方法》|李航|机器学习理论经典书籍|
+|机器学习|《统计学习方法》|李航|机器学习理论经典书籍|
 |机器学习|《机器学习》|周志华|机器学习理论经典书籍|
 |深度学习|[零基础入门深度学习](https://www.zybuluo.com/hanbingtao/note/433855)|hanbingtao|很适合神经网络入门看|
 

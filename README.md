@@ -11,8 +11,11 @@
 
 ## 学习资源推荐
 
-[SOTA榜单](https://paperswithcode.com/sota) 机器学习前沿进展，包括NLP、知识图谱等
+### [SOTA榜单](https://paperswithcode.com/sota) 
+机器学习前沿进展，包括NLP、知识图谱等  
 
+### 学习资料
+  
 |类型|资料名|作者|备注|
 |---|---|---|---|
 |Git入门|[Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)|廖雪峰|Git和以及Github的使用|
